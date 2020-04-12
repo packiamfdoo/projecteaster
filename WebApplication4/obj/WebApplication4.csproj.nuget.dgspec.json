@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calibone\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {}
+    "C:\\Users\\calibone\\source\\repos\\projecteaster\\WebApplication4\\WebApplication4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calibone\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {
+    "C:\\Users\\calibone\\source\\repos\\projecteaster\\WebApplication4\\WebApplication4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calibone\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectUniqueName": "C:\\Users\\calibone\\source\\repos\\projecteaster\\WebApplication4\\WebApplication4.csproj",
         "projectName": "WebApplication4",
-        "projectPath": "C:\\Users\\calibone\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectPath": "C:\\Users\\calibone\\source\\repos\\projecteaster\\WebApplication4\\WebApplication4.csproj",
         "packagesPath": "C:\\Users\\calibone\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calibone\\source\\repos\\WebApplication4\\WebApplication4\\obj\\",
+        "outputPath": "C:\\Users\\calibone\\source\\repos\\projecteaster\\WebApplication4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\calibone\\AppData\\Roaming\\NuGet\\NuGet.Config",
